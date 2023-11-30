@@ -7,7 +7,7 @@ Santa's List Tracker is a mobile app developed in Flutter that helps Santa manag
 ![Screenshot 1](screenshot1.jpg)
 *Caption for Screenshot 1*
 
-![Screenshot 2](screenshot2.png)
+![Screenshot 2](screehshoot2.jpg)
 *Caption for Screenshot 2*
 
 ## Features
