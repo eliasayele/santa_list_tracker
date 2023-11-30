@@ -20,7 +20,7 @@ Santa's List Tracker is a mobile app developed in Flutter that helps Santa manag
 
 The app utilizes the BLoC (Business Logic Component) pattern for state management. BLoC helps organize and manage the app's state in a clear and efficient manner.
 
-## Inspiration Design[assets](assets)
+## Inspiration Design
 
 The design of this app draws inspiration from [Design Inspiration Source](https://www.figma.com/proto/nFFzxeYGEdZkjsJ5ekvWFc/Untitled?type=design&node-id=1-5&t=HvwOWMKcMVDFsmJc-0&scaling=min-zoom&page-id=0%3A1).
 
